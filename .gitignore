@@ -1,0 +1,13 @@
+# 这个仓库只放 MusicUnlock 官网：根跳转页 + 中文页 + 英文页 + 隐私页
+# 其余文件一律不进版本库；样式和脚本已经内联进页面
+*
+!.gitignore
+!index.html
+!LICENSE
+!.nojekyll
+!zh-cn/
+!en-us/
+!privacy/
+!zh-cn/index.html
+!en-us/index.html
+!privacy/index.html
